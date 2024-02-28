@@ -1,2 +1,2 @@
 # IaC-AWS-Resource
-This repo is Terraform root layer where directly interacts with AWS account
+This repository is the root layer of Terraform, which directly interacts with the AWS account.
